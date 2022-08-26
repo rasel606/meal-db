@@ -1,0 +1,16 @@
+.nav-bar nav a{
+    text-decoration: none;
+    margin-right: 50px;
+    color: aqua;
+    font-size: x-large;
+    
+}
+.navbar{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    line-height: 50px;
+    
+    
+    
+}

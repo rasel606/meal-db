@@ -1,0 +1,5 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    background-color: rgba(20, 255, 75, 0.742);
+}

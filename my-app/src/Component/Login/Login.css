@@ -1,0 +1,50 @@
+.form-container{
+    
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid rgba(177, 208, 132, 0.936);
+    box-sizing: border-box;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+}
+.login{
+    margin-top: 10px;
+}
+.form-title{
+    font-size: 35px;
+    font-weight: 400;
+    color: blue;
+    text-align: center;
+}
+.form-container label{
+    margin: 5px;
+    
+}
+.input-group input{
+    width: 415px;
+    height: 35px;
+    border: 1px solid grey;
+    box-sizing: border-box;
+    border-radius:10px;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+.form-submit{
+    width: 415px;
+    height: 35px;
+    color: wheat;
+    border: none;
+    box-sizing: border-box;
+    border-radius:10px;
+    background-color: rgb(160, 152, 173);
+    cursor: pointer;
+    margin-bottom: 10px;
+    box-shadow: 2px salmon;
+}
+.form-submit:hover{
+    background-color: blueviolet;
+}
+.form-link{
+    color: greenyellow;
+}

@@ -1,0 +1,13 @@
+.product-img{
+    height: 200px;
+    width: 260px;
+    margin: 5px;
+    overflow: hidden;
+    
+}
+.product{
+    width: 280px;
+    height: 400px;
+    border: 1px solid grey;
+    align-items: center;
+}

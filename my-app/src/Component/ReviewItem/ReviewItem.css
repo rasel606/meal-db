@@ -1,0 +1,44 @@
+.Review-container{
+    margin: 50px;
+    height: 200px;
+    width: 80%;
+    border: 1px solid wheat;
+    border-radius: 10px;
+    display: flex;
+    background-color: rgba(109, 103, 87, 0.682);
+    
+}
+.review{
+    /* display: grid;
+    grid-template-columns: 2fr 1fr; */
+    margin: 100px;
+    display: flex;
+}
+.Review-container img{
+    height: 120px;
+    margin-top: 40px;
+    margin-left: 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+    border-radius: 5px;
+    
+   
+    
+}
+
+.product-body{
+    margin: 20px;
+    color: black;
+    
+}
+.Remove-Btn{
+    background-color: goldenrod;
+    
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+    border: 2px solid white;
+    
+}
+
